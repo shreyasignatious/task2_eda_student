@@ -1,4 +1,4 @@
-# 📊 Student Performance EDA — AI & ML Internship Task 2
+# 📊 Student Performance EDA 
 
 This project performs Exploratory Data Analysis (EDA) on the "Student Performance in Exams" dataset to discover trends, patterns, and relationships between student demographics and exam scores.
 
